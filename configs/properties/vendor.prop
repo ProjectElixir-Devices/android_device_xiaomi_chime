@@ -248,6 +248,7 @@ persist.vendor.radio.sib16_support=1
 rild.libpath=/vendor/lib64/libril-qc-hal-qmi.so
 ro.com.android.dataroaming=true
 ro.telephony.default_network=22,20
+ro.telephony.iwlan_operation_mode=legacy
 
 # Seamless transfer
 sys.fflag.override.settings_seamless_transfer=true
