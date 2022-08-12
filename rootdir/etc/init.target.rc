@@ -419,6 +419,7 @@ on boot
 
     # Touchpanel
     chown system system /sys/touchpanel/double_tap
+    chmod 0664 /sys/touchpanel/double_tap
 
 on property:sys.boot_completed=1
     rm /data/unencrypted/zram_swap
