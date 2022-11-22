@@ -15,8 +15,8 @@ $(call inherit-product, device/xiaomi/chime/device.mk)
 $(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 
 # PPUI Stuff
-PPUI_MAINTAINER := rktdnt-frostg012-imannig
-CUSTOM_BUILD_TYPE := OFFICIAL
+ELIXIR_MAINTAINER := imannig
+ELIXIR_BUILD_TYPE := OFFICIAL
 TARGET_GAPPS_ARCH := arm64
 TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_ENABLE_BLUR := true
