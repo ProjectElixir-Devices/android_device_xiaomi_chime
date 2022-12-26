@@ -470,6 +470,7 @@ PRODUCT_PACKAGES += \
     init.recovery.qcom.rc \
     init.stnfc.rc \
     init.target.rc \
+    init.chime.rc \
     fstab.qcom \
     ueventd.qcom.rc
 
