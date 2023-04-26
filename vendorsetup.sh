@@ -12,6 +12,4 @@ git clone https://github.com/ProjectElixir-Devices/android_kernel_xiaomi_chime -
 git clone https://gitlab.com/imannig/vendor-xiaomi-chime-1 -b tokyo vendor/xiaomi/chime
 
 # Hardware
-rm -rf hardware/xiaomi
-git clone https://github.com/csmqfest/android_hardware_xiaomi hardware/xiaomi
 git clone https://github.com/PixelExperience/hardware_custom_compat hardware/custom/compat
